@@ -1,6 +1,8 @@
-// id, name //
 
-export interface genres {
-    id:number;
-    name: string;
+
+export interface Review {
+  id: string;
+  bookId: string;
+  rating: number;
+  comment: string;
 }
