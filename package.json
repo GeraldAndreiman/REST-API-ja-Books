@@ -16,6 +16,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@faker-js/faker": "^10.3.0"
+    "@faker-js/faker": "^10.3.0",
+    "zod": "^4.3.6"
   }
 }
